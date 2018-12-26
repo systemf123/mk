@@ -1,6 +1,4 @@
-// 3 коммент
-// второй коммент
-// коммент
+//1
 const gulp = require('gulp');
 const autoprefixer = require('gulp-autoprefixer');
 const cleanCSS = require('gulp-clean-css');
