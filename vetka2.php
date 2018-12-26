@@ -6,3 +6,4 @@
  * Time: 23:00
  */
 echo 'branch 2';
+echo 1;
